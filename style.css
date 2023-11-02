@@ -75,6 +75,12 @@
     color: #fff;
     font-weight: 500;
     margin-left: 40px;
+    transition: .5s;
+ }
+
+ .navigation .btnLogin-popup:hover{
+   background-color: #fff;
+   color: #162938;
  }
 
 .wrapper{
@@ -238,6 +244,10 @@
    text-align: center;
    font-weight: 500;
    margin: 25px 0 10px;
+}
+
+.login-register p{
+   color: #fff;
 }
 
 .login-register p a{
